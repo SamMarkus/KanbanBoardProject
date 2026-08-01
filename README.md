@@ -1,13 +1,13 @@
+## Kanban Board Project
 Kanban board project created for software engineering assessment. 
 
-Packages and sources used: 
+### Packages and sources used 
 - Austin Davis' DND-kit guide: https://www.youtube.com/watch?v=se2Kyi6SG2s
 - DND-Kit: https://dndkit.com/
 - Supabase: https://supabase.com/
 
 
-Local Setup
-
+### Local Setup
 Required packages:
 - dnd-kit: run command ‘npm install @dnd-kit/react’ 
 - Supabase: run command ‘npm install @supabase/supabase-js‘ 
