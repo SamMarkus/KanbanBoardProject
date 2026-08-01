@@ -7,6 +7,7 @@ Packages and sources used:
 
 
 Local Setup
+
 Required packages:
 - dnd-kit: run command ‘npm install @dnd-kit/react’ 
 - Supabase: run command ‘npm install @supabase/supabase-js‘ 
